@@ -28,7 +28,7 @@ Pillow==10.3.0
 psycopg[binary,pool]==3.1.18
 PyYAML==6.0.1
 requests==2.31.0
-social-auth-app-django==5.4.0
+social-auth-app-django==5.4.1
 social-auth-core[openidconnect]==4.5.3
 svgwrite==1.4.3
 tablib==3.6.1
