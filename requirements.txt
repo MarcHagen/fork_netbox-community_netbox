@@ -27,7 +27,7 @@ netaddr==1.2.1
 Pillow==10.3.0
 psycopg[binary,pool]==3.1.18
 PyYAML==6.0.1
-requests==2.31.0
+requests==2.32.0
 social-auth-app-django==5.4.0
 social-auth-core[openidconnect]==4.5.3
 svgwrite==1.4.3
